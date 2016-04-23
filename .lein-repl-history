@@ -1,0 +1,20 @@
+(use 'i-am-a-horse-in-the-land-of-booleans)
+(fizzbuzz 15)
+(fizzbuzz 12)
+(fizzbuzz 11)
+(fizzbuzz 10)
+(fizzbuzz 0)
+(use 'i-am-a-horse-in-the-land-of-booleans)
+(generic-doublificate 1)
+exit
+(use 'i-am-a-horse-in-the-land-of-booleans)
+(generic-doublificate 1)
+(generic-doublificate [1 2])
+(generic-doublificate '(65 21))
+(generic-doublificate {})
+(generic-doublificate [])
+(generic-doublificate {:a 1})
+exit
+(and 0 0)
+(if 0 "true" "false")
+exit
